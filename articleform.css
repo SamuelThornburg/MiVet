@@ -1,0 +1,18 @@
+
+.form-control {
+  margin-bottom: 20px;
+}
+
+.article-img {
+  width: 450px;
+  max-height: 100%;
+}
+
+.uploaded-image {
+  width: 175px;
+  max-height: 100%
+}
+
+.preview {
+  min-height: 331px;
+}
